@@ -12,7 +12,7 @@ LinkedIn: Keerthana G V
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeerthanaGVcodes18&show_icons=true&theme=tokyonight)
 
-![Top Languages]:(https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaGVcodes18&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaGVcodes18&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KeerthanaGVcodes18&theme=tokyonight)
 
