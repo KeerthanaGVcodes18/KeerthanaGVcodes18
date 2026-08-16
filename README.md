@@ -1,4 +1,4 @@
-# Hi,I'm Keerthana G V:
+# Hi,I'm Keerthana G V
 AI/ML student passionate about building intelligent,real-world applications. 
 
 
