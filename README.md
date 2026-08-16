@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student<br>I'm currently learning 
+AI/ML undergraduate | Building ML-powered systems like automated grading tools using Python, scikit-learn & Flask. 
 
 
 ## 🌐 Socials:
